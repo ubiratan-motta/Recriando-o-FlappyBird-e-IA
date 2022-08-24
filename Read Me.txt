@@ -1,6 +1,0 @@
-#Etapas de projeto:
-	1 - Reconstrução do jogo FlappyBird
-	2 - Testes para definir valores que melhor correspondessem a ao efeito visual desejado
-	3 - Configuração da IA com o método NEAT
-	4 - Implementação da IA no código do jogo
-	5 - Testes para verificar se a IA consegue alcançar a pontuação máxima determinada
